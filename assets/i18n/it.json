@@ -4,86 +4,94 @@
     "WHEN": "EVENTI",
     "WHO": "CHI SIAMO",
     "WHERE": "DOVE TROVARCI",
+    "EXPAND_TEXT": "clicca per i dettagli",
     "EVENTS": [
         {
+            "DATE": "2024-11-15T17:30:00Z",
             "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
             "TITLE": "International Games Month 2024",
-            "DESCRIPTION": "15/11 17.30 - 20.30\nBiblioteca Stelio Mattioni",
+            "DESCRIPTION": "15 novembre 17.30 - 20.30\nBiblioteca Stelio Mattioni",
             "EXPANSION": [
                 {
-                    "TEXT": "15/11 17.30 - 20.30\nBiblioteca Stelio Mattioni",
+                    "TEXT": "15 novembre 17.30 - 20.30\nBiblioteca Stelio Mattioni",
                     "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
                     "ALT_TEXT": "Immagine della locandina dell'evento"
                 }
             ]
         },
         {
+            "DATE": "2025-01-08T19:00:00Z",
             "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
-            "TITLE": "GameNights 01/2025",
-            "DESCRIPTION": "8/1 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+            "TITLE": "GameNights gennaio 2025",
+            "DESCRIPTION": "8 gennaio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
             "EXPANSION": [
                 {
-                    "TEXT": "8/1 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+                    "TEXT": "8 gennaio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
                     "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
                     "ALT_TEXT": "Immagine della locandina dell'evento"
                 }
             ]
         },
         {
+            "DATE": "2025-01-26T18:30:00Z",
             "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
             "TITLE": "GiocaMuggia 2025",
-            "DESCRIPTION": "Domenica 26/1 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+            "DESCRIPTION": "Domenica 26 gennaio 18.30 - 20.00\nCalle Verdi 6b a Muggia",
             "EXPANSION": [
                 {
-                    "TEXT": "Domenica 26/1 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+                    "TEXT": "Domenica 26 gennaio 18.30 - 20.00\nCalle Verdi 6b a Muggia",
                     "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
                     "ALT_TEXT": "Immagine della locandina dell'evento"
                 }
             ]
         },
         {
-            "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
-            "TITLE": "Torneo di Catan 02/2025",
-            "DESCRIPTION": "Domenica 28/2 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
-            "EXPANSION": [
-                {
-                    "TEXT": "Domenica 28/2 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
-                    "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
-                    "ALT_TEXT": "Immagine della locandina dell'evento"
-                }
-            ]
-        },
-        {
+            "DATE": "2025-02-19T19:00:00Z",
             "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
-            "TITLE": "GameNights 02/2025",
-            "DESCRIPTION": "19/2 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+            "TITLE": "GameNights febbraio 2025",
+            "DESCRIPTION": "19 febbraio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
             "EXPANSION": [
                 {
-                    "TEXT": "19/2 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+                    "TEXT": "19 febbraio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
                     "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
                     "ALT_TEXT": "Immagine della locandina dell'evento"
                 }
             ]
         },
         {
-            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
-            "TITLE": "Avventure da Tavolo 03/2025\n1a parte",
-            "DESCRIPTION": "clicca per i dettagli",
+            "DATE": "2025-02-28T18:30:00Z",
+            "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+            "TITLE": "Torneo di Catan Febbraio 2025",
+            "DESCRIPTION": "Domenica 28 febbraio 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
             "EXPANSION": [
                 {
-                    "TEXT": "21/3 17.30-20.30 giochi da tavolo\n9/4 17.00-19.00 laboratorio di scacchi\n\"Biblioteca Mattioni\" - Borgo San Sergio",
+                    "TEXT": "Domenica 28 febbraio 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
+                    "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-04-09T19:00:00Z",
+            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+            "TITLE": "Avventure da Tavolo marzo / aprile 2025\n1a parte",
+            "DESCRIPTION": "",
+            "EXPANSION": [
+                {
+                    "TEXT": "21 marzo 17.30-20.30 giochi da tavolo\n9 aprile 17.00-19.00 laboratorio di scacchi\n\"Biblioteca Mattioni\" - Borgo San Sergio",
                     "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
                     "ALT_TEXT": "Immagine della locandina dell'evento"
                 }
             ]
         },
         {
+            "DATE": "2025-04-11T20:30:00Z",
             "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
-            "TITLE": "Avventure da Tavolo 03/2025\n2a parte",
-            "DESCRIPTION": "clicca per i dettagli",
+            "TITLE": "Avventure da Tavolo marzo / aprile 2025\n2a parte",
+            "DESCRIPTION": "",
             "EXPANSION": [
                 {
-                    "TEXT": "8/4 17.00-18.30 laboratorio di scacchi\n10/4 17.00-18.30 laboratorio di scacchi\n11/4 17.30-20.30 giochi da tavolo\n\"Biblioteca Gambini\" - San Giacomo",
+                    "TEXT": "8 aprile 17.00-18.30 laboratorio di scacchi\n10 aprile 17.00-18.30 laboratorio di scacchi\n11 aprile 17.30-20.30 giochi da tavolo\n\"Biblioteca Gambini\" - San Giacomo",
                     "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
                     "ALT_TEXT": "Immagine della locandina dell'evento"
                 }

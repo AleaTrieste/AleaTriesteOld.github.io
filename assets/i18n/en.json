@@ -4,86 +4,94 @@
     "WHEN": "EVENTS",
     "WHO": "ABOUT US",
     "WHERE": "LOCATION",
+    "EXPAND_TEXT": "Click for details",
     "EVENTS": [
         {
+            "DATE": "2024-11-15T17:30:00Z",
             "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
             "TITLE": "International Games Month 2024",
-            "DESCRIPTION": "15/11 17.30 - 20.30\nStelio Mattioni Library",
+            "DESCRIPTION": "15 November 17.30 - 20.30\nStelio Mattioni Library",
             "EXPANSION": [
                 {
-                    "TEXT": "15/11 17.30 - 20.30\nStelio Mattioni Library",
+                    "TEXT": "15 November 17.30 - 20.30\nStelio Mattioni Library",
                     "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
                     "ALT_TEXT": "Image of the event poster"
                 }
             ]
         },
         {
+            "DATE": "2025-01-08T19:00:00Z",
             "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
-            "TITLE": "GameNights 01/2025",
-            "DESCRIPTION": "8/1 19.00 - 22.00\nStudy room, ground floor, building H3",
+            "TITLE": "GameNights January 2025",
+            "DESCRIPTION": "8 January 19.00 - 22.00\nStudy room, ground floor, building H3",
             "EXPANSION": [
                 {
-                    "TEXT": "8/1 19.00 - 22.00\nStudy room, ground floor, building H3",
+                    "TEXT": "8 January 19.00 - 22.00\nStudy room, ground floor, building H3",
                     "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
                     "ALT_TEXT": "Image of the event poster"
                 }
             ]
         },
         {
+            "DATE": "2025-01-26T18:30:00Z",
             "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
             "TITLE": "GiocaMuggia 2025",
-            "DESCRIPTION": "Domenica 26/1 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+            "DESCRIPTION": "Sunday 26 January 18.30 - 20.00\nCalle Verdi 6b a Muggia",
             "EXPANSION": [
                 {
-                    "TEXT": "Domenica 26/1 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+                    "TEXT": "Sunday 26 January 18.30 - 20.00\nCalle Verdi 6b a Muggia",
                     "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
                     "ALT_TEXT": "Image of the event poster"
                 }
             ]
         },
         {
-            "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
-            "TITLE": "Torneo di Catan 02/2025",
-            "DESCRIPTION": "Domenica 28/2 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
-            "EXPANSION": [
-                {
-                    "TEXT": "Domenica 28/2 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
-                    "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
-                    "ALT_TEXT": "Image of the event poster"
-                }
-            ]
-        },
-        {
+            "DATE": "2025-02-19T19:00:00Z",
             "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
-            "TITLE": "GameNights 02/2025",
-            "DESCRIPTION": "19/2 19.00 - 22.00\nStudy room, ground floor, building H3",
+            "TITLE": "GameNights February 2025",
+            "DESCRIPTION": "19 February 19.00 - 22.00\nStudy room, ground floor, building H3",
             "EXPANSION": [
                 {
-                    "TEXT": "19/2 19.00 - 22.00\nStudy room, ground floor, building H3",
+                    "TEXT": "19 February 19.00 - 22.00\nStudy room, ground floor, building H3",
                     "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
                     "ALT_TEXT": "Image of the event poster"
                 }
             ]
         },
         {
-            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
-            "TITLE": "Avventure da Tavolo 03/2025\n1a parte",
-            "DESCRIPTION": "Click for details",
+            "DATE": "2025-02-28T18:30:00Z",
+            "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+            "TITLE": "Torneo di Catan February 2025",
+            "DESCRIPTION": "Sunday 28 February 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
             "EXPANSION": [
                 {
-                    "TEXT": "21/3 17:30-20:30 board games\n9/4 17:00-19:00 chess workshop\n\"Mattioni Library\" - Borgo San Sergio",
+                    "TEXT": "Sunday 28 February 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
+                    "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-04-09T19:00:00Z",
+            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+            "TITLE": "Avventure da Tavolo March / April 2025\n1a parte",
+            "DESCRIPTION": "",
+            "EXPANSION": [
+                {
+                    "TEXT": "21 March 17:30-20:30 board games\n9 April 17:00-19:00 chess workshop\n\"Mattioni Library\" - Borgo San Sergio",
                     "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
                     "ALT_TEXT": "Image of the event poster"
                 }
             ]
         },
         {
+            "DATE": "2025-04-11T20:30:00Z",
             "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
-            "TITLE": "Avventure da Tavolo 03/2025\n2a parte",
-            "DESCRIPTION": "Click for details",
+            "TITLE": "Avventure da Tavolo March / April 2025\n2a parte",
+            "DESCRIPTION": "",
             "EXPANSION": [
                 {
-                    "TEXT": "8/4 17:00-18:30 chess workshop\n10/4 17:00-18:30 chess workshop\n11/4 17:30-20:30 board games\n\"Gambini Library\" - San Giacomo",
+                    "TEXT": "8 April 17:00-18:30 chess workshop\n10 April 17:00-18:30 chess workshop\n11 April 17:30-20:30 board games\n\"Gambini Library\" - San Giacomo",
                     "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
                     "ALT_TEXT": "Image of the event poster"
                 }
